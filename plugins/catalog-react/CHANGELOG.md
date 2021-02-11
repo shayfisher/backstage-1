@@ -1,5 +1,11 @@
 # @backstage/plugin-catalog-react
 
+## 0.0.4
+
+### Patch Changes
+
+- d34d26125: Limit the props that are forwarded to the `Link` component in the `EntityRefLink`.
+
 ## 0.0.3
 
 ### Patch Changes
